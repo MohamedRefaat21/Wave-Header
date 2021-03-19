@@ -1,0 +1,52 @@
+body 
+{
+    font-family: 'Hammersmith One', sans-serif;
+}
+.home
+{
+    height: 100vh;
+    background-image: url(../img/bg.jpg);
+    background-size: cover;
+}
+.navbar .nav-link
+{
+    color: #fff !important;
+    padding: 10px;
+    margin: 35px;
+    font-size: 25px;
+    transition: all 0.5s;
+}
+.nav-item .nav-link:hover
+{
+    color: greenyellow!important;
+}
+.caption
+{
+    margin-left: 55%;
+    margin-top: 5%;
+    
+}
+.caption h1 
+{
+    font-size: 150px;
+    font-weight: bolder;
+    color: #fff;
+    letter-spacing: 8px;
+    
+}
+.title
+{
+    margin-left: 43%;
+    text-align: center;
+    color: #fff;
+    font-family: 'Hammersmith One', sans-serif;
+}
+.btn-col
+{
+    background-color: rgb(120, 192, 11);
+}
+.btn-col:hover
+{
+    background-color: black;
+    color: #fff;
+}
